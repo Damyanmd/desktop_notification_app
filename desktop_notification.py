@@ -6,7 +6,7 @@ def notify_me(title, message):
         title=title,
         message=message,
         # This is an example, you can use the same format for your directory where the icon is placed
-        app_icon="C:\\Users\\User\\Documents\\Projects\\Desktop Notifier App\\eye.ico",
+        app_icon="C:\\Users\\User\\Documents\\Projects\\Desktop Notifier App\\eye-icon.ico",
         timeout=20,
     )
 
